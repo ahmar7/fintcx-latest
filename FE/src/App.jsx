@@ -2,7 +2,6 @@
 // import Index from './jsx/router/index';
 // import { connect, useDispatch } from 'react-redux';
 // import { Route, Routes, useLocation, useNavigate, useParams } from 'react-router-dom';
-// import { checkAutoLogin } from './services/AuthService';
 // import { isAuthenticated } from './store/selectors/AuthSelectors';
 import 'rsuite/dist/rsuite-no-reset.min.css';
 import "./assets/css/style.css";
